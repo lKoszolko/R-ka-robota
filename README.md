@@ -28,8 +28,8 @@ Projekt ewoluował od prototypu na biurku do finalnego, autonomicznego urządzen
 Sercem układu jest **Raspberry Pi**, które działa jako jednostka centralna i przetwarza wszystko w ramach jednego spójnego środowiska (Python):
 
 1. **Kamera USB/CSI** stale rejestruje obraz.
-2. **Skrypt Python (Vision)** analizuje klatki obrazu i wykrywa pozycję sterującą.
-3. **Skrypt Python (Control)** przelicza kinematykę i komunikuje się po **I2C** z płytką **PCA9685**.
+2. **Główny skrypt Python** równolegle analizuje obraz i wylicza docelowe kąty obrotu dla każdego z przegubów ramienia.
+     Skrypt wysyła polecenia po szynie **I2C** bezpośrednio do płytki **PCA9685**.
 4. **Zasilanie:** 
    * Zasilacz komputerowy dostarcza duży prąd do układu.
    * Przetwornica napięcia dba o obniżenie i stabilizację napięcia trafiającego bezpośrednio do serwomechanizmów (chroniąc Raspberry Pi i płytkę PCA).
