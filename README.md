@@ -1,3 +1,4 @@
+<img width="941" height="1103" alt="61714774-a554-4030-b282-58588d955e49" src="https://github.com/user-attachments/assets/ab696282-d0b5-4533-a924-99de77334e0c" />
 # 🤖 Autonomiczne Ramię Robota (Wizja i Sterowanie w Pythonie)
 
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=Raspberry-Pi&logoColor=white)]()
@@ -14,9 +15,6 @@ Ten projekt to w pełni funkcjonalne ramię robota sterowane za pomocą gestów 
 * **⚡ Niestandardowy system zasilania:** Aby sprostać dużemu zapotrzebowaniu na prąd przez serwomechanizmy, do zasilania układu wykorzystano **zmodyfikowany zasilacz komputerowy (ATX)**. Napięcie trafiające do serw jest precyzyjnie regulowane za pomocą **przetwornicy step-down**, co zapewnia stabilną i bezpieczną pracę pod obciążeniem.
 
 ---
-<div align="center">
-  <img src"img/61714774-a554-4030-b282-58588d955e49.jpg width="30%" alt="Ręka robota">
-</div>
 
 ## 🛠️ Architektura Sprzętowa
 
