@@ -15,7 +15,7 @@ Ten projekt to w pełni funkcjonalne ramię robota sterowane za pomocą gestów 
 
 ---
 <div align="center">
-  <img src"img/61714774-a554-4030-b282-58588d955e49.jpg width="30%" alt="Początki budowy mechaniki">
+  <img src"img/61714774-a554-4030-b282-58588d955e49.jpg width="30%" alt="Ręka robota">
 </div>
 
 ## 🛠️ Architektura Sprzętowa
