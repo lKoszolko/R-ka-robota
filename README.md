@@ -15,14 +15,6 @@ Ten projekt to w pełni funkcjonalne ramię robota sterowane za pomocą gestów 
 
 ---
 
-## 📸 Historia budowy (Galeria)
-
-Projekt ewoluował od prototypu na biurku do finalnego, autonomicznego urządzenia z potężnym zasilaniem.
-
-*1. Składanie mechaniki. | 2. Integracja Raspberry Pi, przetwornicy i zasilacza ATX. | 3. Gotowy system.*
-
----
-
 ## 🛠️ Architektura Sprzętowa
 
 Sercem układu jest **Raspberry Pi**, które działa jako jednostka centralna i przetwarza wszystko w ramach jednego spójnego środowiska (Python):
