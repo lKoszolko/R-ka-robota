@@ -14,6 +14,9 @@ Ten projekt to w pełni funkcjonalne ramię robota sterowane za pomocą gestów 
 * **⚡ Niestandardowy system zasilania:** Aby sprostać dużemu zapotrzebowaniu na prąd przez serwomechanizmy, do zasilania układu wykorzystano **zmodyfikowany zasilacz komputerowy (ATX)**. Napięcie trafiające do serw jest precyzyjnie regulowane za pomocą **przetwornicy step-down**, co zapewnia stabilną i bezpieczną pracę pod obciążeniem.
 
 ---
+<div align="center">
+  <img src"img/61714774-a554-4030-b282-58588d955e49.jpg width="30%" alt="Początki budowy mechaniki">
+</div>
 
 ## 🛠️ Architektura Sprzętowa
 
